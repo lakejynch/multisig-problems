@@ -1,0 +1,13 @@
+{
+	"KNOWN_ADDRESSES": {
+		"example0":"0x0000",
+		"example1":"0x0001",
+		"example2":"0x0002",
+		"example3":"0x0003",
+		"example4":"0x0004",
+		"example5":"0x0005"
+     },
+	 "API_KEY": "YOUR-ETHERSCAN-API-KEY-HERE",
+	 "ADDRESS": "YOUR-MULTISIG-ADDRESS-HERE",
+	 "LAST_BLOCK": 0
+}
